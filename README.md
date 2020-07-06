@@ -83,3 +83,5 @@ To explore Face SDK features, check out our [samples](doc/samples) that will sho
 
 <div align="center">© All Rights Reserved. <a href="https://3divi.com/">3DiVi Inc.</a></div>
 <div align="center"><a href="mailto: face@3divi.com">face@3divi.com</a></div>
+
+changes
